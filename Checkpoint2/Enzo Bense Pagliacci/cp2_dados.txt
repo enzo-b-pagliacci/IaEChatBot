@@ -1,0 +1,19 @@
+Checkpoint 2 - IA&Chatbot
+
+Enzo Bens Pagliacci - RM:87203
+Guilherme Beck Lobo – RM: 87531 
+
+------------------------------
+Watson Assistant
+apikey: a-EDx3C0el-EtMfGutLarZoAsqisYlk0Ibb-jUcyFpmu
+assistant id: 044d2ee1-995c-4c3b-bbe0-4b1dd2e59c2f
+
+Telegram
+botname: Man_de_ferro_bot
+token: 1831848554:AAHd9nWcR5Ve2SsGWcfDg982ULFBW2sIi58
+
+Text to speech (TTS)
+apikey: Q0cuT1UmkJM5QYCUYiGDi4uR7bQamCuegoOnZ_o4lwlx
+
+Speech to text (STT)
+apikey: CSpYuzCfG0sBQ3CW8o9Z6_QVUG0aPNAT6CCvFo0FernU
