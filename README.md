@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="IAeChatBot" title="IAeChatBot" src="./img/logo.png" />
+    <img alt="IAeChatBot" height="390px" width="390px" title="IAeChatBot" src="https://github.com/enzo-b-pagliacci/IaEChatBot/blob/main/logo/thumbnail_IA%20e%20chat.png" />
 </h1>
 <h4 align="center"> 
 	🚧 ✏ Em aprendizagem... 🚧
